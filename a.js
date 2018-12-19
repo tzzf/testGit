@@ -1,7 +1,11 @@
 function test() {
-    console.log(0);
+    console.log('test');
+}
+
+function eat() {
+    console.log('eat');
 }
 
 function work() {
-    console.log(1);
+    console.log('work');
 }
