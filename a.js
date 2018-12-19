@@ -7,5 +7,10 @@ function eat() {
 }
 
 function work() {
-    console.log('work');
+    sleep();
+    console.log(1);
+}
+
+function sleep() {
+    console.log('sleep');
 }
