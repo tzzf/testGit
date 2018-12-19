@@ -3,5 +3,10 @@ function test() {
 }
 
 function work() {
+    sleep();
     console.log(1);
+}
+
+function sleep() {
+    console.log('sleep');
 }
