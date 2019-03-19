@@ -1,3 +1,5 @@
+import { getDog } from './b.js';
+
 function test() {
     console.log('test');
 }
@@ -16,3 +18,8 @@ function sleep() {
 }
 
 console.log('撤销')
+
+function todosomething() {
+    getDog();
+    console.log('todosomething');
+}
