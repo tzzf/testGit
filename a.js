@@ -1,6 +1,7 @@
 // function test() {
 //     console.log('test');
 // }
+import { getDog } from './b.js';
 
 function eat() {
     console.log('eat');
@@ -18,3 +19,7 @@ function sleep() {
 console.log('撤销')
 
 console.log('not need test');
+function todosomething() {
+    getDog();
+    console.log('todosomething');
+}
