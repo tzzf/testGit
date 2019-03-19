@@ -1,7 +1,7 @@
 // function test() {
 //     console.log('test');
 // }
-import { getDog } from './b.js';
+import { getDog, getPig } from './b.js';
 
 function eat() {
     console.log('eat');
@@ -29,3 +29,8 @@ function wantdoSomething() {
 }
 
 wantdoSomething();
+
+function getPigMessage() {
+    getPig();
+    console.log('getPigMessage';)
+}
