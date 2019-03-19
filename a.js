@@ -1,6 +1,6 @@
-function test() {
-    console.log('test');
-}
+// function test() {
+//     console.log('test');
+// }
 
 function eat() {
     console.log('eat');
@@ -16,3 +16,5 @@ function sleep() {
 }
 
 console.log('撤销')
+
+console.log('not need test');
