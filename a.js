@@ -23,3 +23,9 @@ function todosomething() {
     getDog();
     console.log('todosomething');
 }
+
+function wantdoSomething() {
+    console.log('wantdoSomething');
+}
+
+wantdoSomething();
