@@ -10,3 +10,5 @@ function work() {
 function sleep() {
     console.log('sleep');
 }
+
+console.log(1);
