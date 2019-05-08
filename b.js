@@ -9,3 +9,4 @@ function getDog() {
 function getPig() {
     console.log('getPig');
 }
+console.log('i do something')

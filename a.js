@@ -20,8 +20,8 @@ console.log('撤销')
 
 console.log('not need test');
 function todosomething() {
-    getDog();
-    console.log('todosomething');
+    // getDog();
+    // console.log('todosomething');
 }
 
 function wantdoSomething() {
