@@ -10,3 +10,4 @@ function getPig() {
     console.log('getPig');
 }
 console.log('i do something')
+console.log('i do something again')
