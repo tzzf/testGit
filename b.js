@@ -11,3 +11,4 @@ function getPig() {
 }
 console.log('i do something')
 console.log('i do something again')
+console.log('测试3');
