@@ -34,3 +34,5 @@ function getPigMessage() {
     getPig();
     console.log('getPigMessage';)
 }
+
+console.log('测试1');
